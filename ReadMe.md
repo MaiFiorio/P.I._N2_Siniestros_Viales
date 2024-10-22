@@ -67,9 +67,9 @@ El nootbook desarrollado se estructura de la siguiente manera:
 
 ## 3) ESTRUCTURA & PREGUNTAS CLAVES:
 Se segmenta el análisis en 3 grandes grupos:
-     * TEMPORAL
-     * GEOGRÁFICO
-     * PARTICIPANTES
+  * TEMPORAL
+  * GEOGRÁFICO
+  * PARTICIPANTES
 Una vez organizada la estructura, se desarrollan interrogantes a reponder luego del análisis de datos, y los que nos permitiran llegar a conclusiones y recomendaciones.
 
 ![Estructura](4.%20Imágenes/Estructura.png)
@@ -94,9 +94,9 @@ Se realiza el análisis de las variables geográficas que nos permitirá identif
 
 ### `MÉTRICAS Y KPI'S`:
 Se procede a medir y gráficar tres KPIs:
-     - Reducir en un 10% la tasa de homicidios en siniestros viales semestralmente, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior. Entendiéndose como tasa de homicidio como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes, en el periodo bajo análisis.
-     - Reducir en un 7% la cantidad de accidentes mortales de motociclistas de forma anual, en CABA, comparada con el año anterior.
-     - Reducir en un 15% la cantidad de accidentes mortales de peatones de forma anual, en CABA, comparada con el año anterior. 
+  - Reducir en un 10% la tasa de homicidios en siniestros viales semestralmente, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior. Entendiéndose como tasa de homicidio como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes, en el periodo bajo análisis.
+  - Reducir en un 7% la cantidad de accidentes mortales de motociclistas de forma anual, en CABA, comparada con el año anterior.
+  - Reducir en un 15% la cantidad de accidentes mortales de peatones de forma anual, en CABA, comparada con el año anterior. 
 
 ![Estructura](4.%20Imágenes/4KPI.png)
 
