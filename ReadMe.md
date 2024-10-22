@@ -66,6 +66,11 @@ El nootbook desarrollado se estructura de la siguiente manera:
         * 11) Participantes:  Se realiza el presente análisis para proporcionar una comprensión integral de los factores que contribuyen a la vulnerabilidad en accidentes viales, centrándose en las víctimas y sus interacciones con los acusado
 
 ## 3) ESTRUCTURA & PREGUNTAS CLAVES:
+Se segmenta el análisis en 3 grandes grupos:
+     * TEMPORAL
+     * GEOGRÁFICO
+     * PARTICIPANTES
+Una vez organizada la estructura, se desarrollan interrogantes a reponder luego del análisis de datos, y los que nos permitiran llegar a conclusiones y recomendaciones.
 
 ![Estructura](4.%20Imágenes/Estructura.png)
 
@@ -73,18 +78,31 @@ El nootbook desarrollado se estructura de la siguiente manera:
 ## 4) DESARROLLO DE TABLERO INTERACTIVO MEDIANTE POWER BI:
 
 ### `ANÁLISIS TEMPORAL`:
+ Se realiza este tablero en busca de obtener y mostrar conclusiones sobre posibles tendencias temporales y/o estacionales que nos permitan tomar medidas consistentes al resultado del mismo.
+
 ![Estructura](4.%20Imágenes/1Temporal.png)
 
 ### `ANÁLISIS GEOGRÁFICO`:
+Se realiza el análisis de las variables geográficas que nos permitirá identificar patrones espaciales en la ocurrencia de accidentes de tráfico, lo cual es fundamental para diseñar estrategias de prevención y mitigación efectivas.
+
 ![Estructura](4.%20Imágenes/2Geografico.png)
 
 ### `ANÁLISIS SOBRE PARTICIPANTES`:
+ Se realiza el presente análisis para proporcionar una comprensión integral de los factores que contribuyen a la vulnerabilidad en accidentes viales, centrándose en las víctimas y sus interacciones con los acusado. Identidicando perfiles de riesgo, para sectorizar correctamente las medidas a tomar.
+
 ![Estructura](4.%20Imágenes/3Participantes.png)
 
 ### `MÉTRICAS Y KPI'S`:
+Se procede a medir y gráficar tres KPIs:
+     - Reducir en un 10% la tasa de homicidios en siniestros viales semestralmente, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior. Entendiéndose como tasa de homicidio como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes, en el periodo bajo análisis.
+     - Reducir en un 7% la cantidad de accidentes mortales de motociclistas de forma anual, en CABA, comparada con el año anterior.
+     - Reducir en un 15% la cantidad de accidentes mortales de peatones de forma anual, en CABA, comparada con el año anterior. 
+
 ![Estructura](4.%20Imágenes/4KPI.png)
 
 ## 5) CONCLUSIONES & RECOMENDACIONES:
+En funcióna los principales interrogantes que se hicieron previos al análsis, se le da respuesta a cada uno de ellos y en base a los conclusiones obtenidas se procede a dar algunas recomendaciones para cada una de las áreas evaladas.
+
 ![Concluisiones](4.%20Imágenes/Conclusiones.png)
 
 ## 6) CONTACTO & CONSULTAS:
