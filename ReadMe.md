@@ -65,6 +65,54 @@ El nootbook desarrollado se estructura de la siguiente manera:
         * 10) Geográfico:  Se realiza este análisis de las variables geográficas que nos permitirá identificar patrones espaciales en la ocurrencia de accidentes de tráfico, lo cual es fundamental para diseñar estrategias de prevención y mitigación más efectivas
         * 11) Participantes:  Se realiza el presente análisis para proporcionar una comprensión integral de los factores que contribuyen a la vulnerabilidad en accidentes viales, centrándose en las víctimas y sus interacciones con los acusado
 
+### `CONCLUSIONES POST EDA`:
+* Temporal:
+
+
+![Estructura](4.%20Imágenes/Imagen1.png)
+![Estructura](4.%20Imágenes/Imagen2.png)
+
+Conclusiones:
+1.	Alta Variabilidad: El número de victimas no sigue un patrón lineal o estacional claro. Existen meses con cifras muy superiores a la media y otros con cifras significativamente inferiores.
+2.	Tendencia a Largo Plazo: A pesar de las fluctuaciones, se aprecia una tendencia general a la baja en los últimos 3 años, sobre todo en 2020 posiblemente a causa de la pandemia, pero con un gran sobre salto en Diciembre del mismo año.
+3.	Presencia de Picos: Se identifican meses con un número de homicidios significativamente superior a la media (picos superiores), así como meses con cifras muy inferiores (picos inferiores).Sin embargo la media puede verse afectada por los valores extemos (inferiores) de la pandemia.
+4. No se observan patrones repetidos sino una gran variabilidad en el número de víctimas a lo largo del tiempo, tanto a nivel mensual como anual
+
+![Estructura](4.%20Imágenes/Imagen3.png)
+
+![Estructura](4.%20Imágenes/Imagen4.png)
+
+Conclusiones:
+1.	Distribución por Hora: Se observa un pico en el número de homicidios durante las horas nocturnas, especialmente entre las 5 AM y las 7 AM, concentrado aún mas los Fines de semana como se puede ver en el segundo gráfico.
+2.	Distribución por Día de la Semana: Los fines de semana, especialmente los sábados y domingos, muestran los índices altos de homicidios. Esto podría estar relacionado con el aumento de la actividad social y el consumo de alcohol durante estos días. Los lunes también tienen valores altos. Sin embargo, a grandes rasgos se presenta una distribución más uniforme, aunque con una ligera tendencia a la baja durante la semana en comparación con los fines de semana.
+3.	Distribución por Mes: Se observa una variabilidad en el número de homicidios a lo largo de los meses del año, con un patrón estacional hacia fin de año, sobre todo Noviembre y Diciembre.
+4.	Distribución por Año: Si bien hay fluctuaciones anuales, se puede apreciar una tendencia general hacia la baja, sobre todo en los últimos tres  años.
+
+
+* Geográfico:
+
+![Estructura](4.%20Imágenes/Imagen5.png)
+![Estructura](4.%20Imágenes/Imagen6.png)
+
+Conclusiones: 
+1. Mediante el mapa se pueden ver de color rojo la zonas con mas de accidentes fatales. 
+2. Y en el segundo podemos ver las comunas con mayor cantidad de víctimas, estando entre las más afectadas Comuna 1, 4 y 9
+
+* Participantes (Victimas y Acusados):
+
+![Estructura](4.%20Imágenes/Imagen7.png)
+![Estructura](4.%20Imágenes/Imagen8.png)
+
+Conclusiones:
+1. Se puede observar como el rango etario con mayor concentración de víctimas es entre 21 y 40 años.
+2. A su vez el género masculino es ampliamente superior al femenino, dicha brecha se acentua más entre 21 y 40 años y luego tiende a elquilibrarse despues de los 60 años.
+3. Se observa que en el rol de víctima son MOTOS y PEATONES, los más afectados. Y en cuanto a acusados se destacan sobre el resto TRANSPORTES PÚBLICOS Y AUTOS.
+4. Se puede observar como la mayor cantidad de víctimas se da en las siguientes relaciones ACUSADO - VICTIMA:
+* PEATON-TRANSPORTE_PUBLICO    105
+* MOTO-AUTO                     84
+* MOTO-CARGAS                   80
+* PEATON-AUTO                   79
+
 ## 3) ESTRUCTURA & PREGUNTAS CLAVES:
 Se segmenta el análisis en 3 grandes grupos:
   * TEMPORAL
